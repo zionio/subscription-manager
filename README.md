@@ -1,6 +1,6 @@
 # subscription-manager
 
-[subscription-manager](https://github.com/candlepin/subscription-manager) RPM and dependencies built with Oracle Linux 8 from [https://github.com/candlepin/subscription-manager](https://github.com/candlepin/subscription-manager)
+RPMs and dependencies built with Oracle Linux 8 from [https://github.com/candlepin/subscription-manager](https://github.com/candlepin/subscription-manager)
 
 ## Description
 
@@ -22,7 +22,7 @@ and install
 dnf install -y subscription-manager
 ```
 
-or download latest build here.
+or download [latest build](https://github.com/zionio/subscription-manager/releases) here.
 
 ## Source
 
