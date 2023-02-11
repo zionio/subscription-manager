@@ -2,16 +2,29 @@
 
 [subscription-manager](https://github.com/candlepin/subscription-manager) RPM and dependencies built with Oracle Linux 8 from [https://github.com/candlepin/subscription-manager](https://github.com/candlepin/subscription-manager)
 
-## DESCRIPTION
+## Description
 
-This is my personal repository for [subscription-manager](https://github.com/candlepin/subscription-manager) packages, simply built with [tito](https://github.com/rpm-software-management/tito) and Oracle Linux 8, to work with my Satellite platform.
+My personal repository for [subscription-manager](https://github.com/candlepin/subscription-manager) packages, simply built with [tito](https://github.com/rpm-software-management/tito) and Oracle Linux 8, to work with my Satellite platform.
 
 The Software and related documentation are provided “AS IS” and without any warranty of any kind.
 
-## SOURCE
+## Usage
 
-[GitHub Candlepin/Subscription-manager](https://github.com/candlepin/subscription-manager)
+Add my [public repo](https://packagecloud.io/zionio/subscription-manager)
 
-## LICENSE
+`$ curl -s https://packagecloud.io/install/repositories/zionio/subscription-manager/script.rpm.sh | sudo bash`
 
-[GNU General Public License v2.0](https://opensource.org/licenses/GPL-2.0)
+and install
+
+`$ sudo dnf install -y subscription-manager`
+
+or download latest build here.
+
+## Source
+
+[Subscription-manager](https://github.com/candlepin/subscription-manager)  
+[Tito](https://github.com/rpm-software-management/tito)
+
+## My Latest build
+
+1.29.26-2
