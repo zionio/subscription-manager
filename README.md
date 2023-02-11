@@ -12,11 +12,15 @@ The Software and related documentation are provided “AS IS” and without any 
 
 Add my [public repo](https://packagecloud.io/zionio/subscription-manager)
 
-`$ curl -s https://packagecloud.io/install/repositories/zionio/subscription-manager/script.rpm.sh | sudo bash`
+```bash
+curl -s https://packagecloud.io/install/repositories/zionio/subscription-manager/script.rpm.sh | bash
+```
 
 and install
 
-`$ sudo dnf install -y subscription-manager`
+```bash
+dnf install -y subscription-manager
+```
 
 or download latest build here.
 
