@@ -28,7 +28,3 @@ or download [latest build](https://github.com/zionio/subscription-manager/releas
 
 [Subscription-manager](https://github.com/candlepin/subscription-manager)  
 [Tito](https://github.com/rpm-software-management/tito)
-
-## My Latest build
-
-1.29.26-2
