@@ -8,6 +8,11 @@ My personal repository for [subscription-manager](https://github.com/candlepin/s
 
 The Software and related documentation are provided “AS IS” and without any warranty of any kind.
 
+## Tested on
+
+* Oracle Linux 8.6, 8.7
+* Red Hat Satellite 6.5
+
 ## Usage
 
 Add my [public repo](https://packagecloud.io/zionio/subscription-manager)
